@@ -1,0 +1,34 @@
+img{
+    height: 500px;
+    width: 100%;
+}
+
+.menu{
+    border: dodgerblue dotted 2px;
+    font-weight: 700;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:aqua ;
+    font-size: 20px;
+}
+
+.info
+{
+    text-align: center;
+    font-size: 25px;
+    background-color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.konieStrony
+{
+    border: 2px solid black;
+    height: 200px;
+    background-color: aquamarine;
+}
+
+a{
+    padding: 35px;
+    font-size: 25px ;
+    display: inline;
+}
